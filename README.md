@@ -6,7 +6,7 @@ Not sure it's feasible, but the long term idea is to leverage it to run Kubernet
 
 Had some experience with both Android development and Kubernetes management.
 
-Any help is more than welcome and appreciated it.
+Any help is more than welcome and appreciated.
 
 We are planning to use Android Studio+GitHub for now
 
