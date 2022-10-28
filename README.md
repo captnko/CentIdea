@@ -9,6 +9,11 @@ Had some experience with both Android development and Kubernetes management.
 Any help is more than welcome and appreciated.
 
 We are planning to use Android Studio+GitHub for now
+---
+Project plan
+
+First try: qemu + alpine linux + docker
+
 
 ---
 
